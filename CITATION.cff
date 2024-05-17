@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Multi-indication meta-analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Janharpreet
+    family-names: Singh
+    email: js929@leicester.ac.uk
+    affiliation: University of Leicester
+    orcid: 'https://orcid.org/0000-0002-0272-3902'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10885738
+repository-code: 'https://github.com/jan-singh/multi-indication-wp2/tree/1.0'
